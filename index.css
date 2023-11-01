@@ -93,3 +93,9 @@ a:hover {
 a:active {
   color: brown;
 }
+
+img {margin-top:-25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
